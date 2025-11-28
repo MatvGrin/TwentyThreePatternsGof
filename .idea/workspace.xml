@@ -4,187 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da12205d-677a-47a3-b278-b9b4670530e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_21_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_14_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_14_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20240303.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_6_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_6_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwentyThreePatternsGof.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/electicCar/ElectricCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/electicCar/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/electicCar/ElectricTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/gasolineCar/GasolineCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/gasolineCar/GasolineEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractFactory/gasolineCar/GasolineTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/ExternalOrderAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/ExternalOrderProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/MyOrderProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapter/OrderProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapterSecond/ATS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapterSecond/CreditCardProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapterSecond/LegacyPaymentSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapterSecond/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapterSecond/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/adapterSecond/PaymentProcessorAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builder/PetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builderSecond/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builderSecond/AdminMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builderThirdRealisation/HttpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builderThirdRealisation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/builderThirdRealisation/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decarator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decarator/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decarator/MessageDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decarator/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decaratorSecond/DiscountProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decaratorSecond/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decaratorSecond/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/decaratorSecond/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/FactoryOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/InStoreOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/MobileOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/OnlineOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethod/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethodSecondRealisation/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethodSecondRealisation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethodSecondRealisation/MessageSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethodSecondRealisation/MessageSenderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethodSecondRealisation/PushSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factoryMethodSecondRealisation/SmsSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/ChangingDatasAndTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Durations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/OldClientMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/Periods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxyInterface/CheckSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxyInterface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxyInterface/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxyInterface/ProxyOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxyInterface/RealOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxySecond/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxySecond/ImageProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxySecond/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxySecond/RealImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/FinishedThreadResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/ProducerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/ServiceLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singletonSecond/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/CarFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/Engine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/Tire.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/electicCar/ElectricCarFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/electicCar/ElectricEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/electicCar/ElectricTire.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/gasolineCar/GasolineCarFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/gasolineCar/GasolineEngine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/abstractFactory/gasolineCar/GasolineTire.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapter/Exchange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapter/ExternalOrderAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapter/ExternalOrderProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapter/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapter/MyOrderProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapter/OrderProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapterSecond/ATS.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapterSecond/CreditCardProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapterSecond/LegacyPaymentSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapterSecond/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapterSecond/PaymentProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/adapterSecond/PaymentProcessorAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builder/Pet$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builder/Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builder/PetMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builderSecond/Admin$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builderSecond/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builderSecond/AdminMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builderThirdRealisation/HttpRequest$HttpRequestBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builderThirdRealisation/HttpRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builderThirdRealisation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/builderThirdRealisation/Methods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decarator/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decarator/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decarator/MessageDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decarator/Mobile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decaratorSecond/DiscountProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decaratorSecond/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decaratorSecond/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/decaratorSecond/Shop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethod/FactoryOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethod/InStoreOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethod/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethod/MobileOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethod/OnlineOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethod/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethodSecondRealisation/EmailSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethodSecondRealisation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethodSecondRealisation/MessageSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethodSecondRealisation/MessageSenderFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethodSecondRealisation/PushSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/factoryMethodSecondRealisation/SmsSender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/ChangingDatasAndTimes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/Durations.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/OldClientMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/observer/Periods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxyInterface/CheckSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxyInterface/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxyInterface/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxyInterface/ProxyOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxyInterface/RealOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxySecond/Image.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxySecond/ImageProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxySecond/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/proxySecond/RealImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singleton/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singleton/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/EmailService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/FinishedThreadResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/PaymentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/ProducerConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/ServiceLocator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/singletonSecond/Store.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="da12205d-677a-47a3-b278-b9b4670530e2" name="Changes" comment="I'm attaching all the code that was written over the course of several weeks." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1764345372018</updated>
     </task>
+    <task id="LOCAL-00001" summary="I'm attaching all the code that was written over the course of several weeks.">
+      <created>1764346448301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764346448301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I'm attaching all the code that was written over the course of several weeks." />
+    <option name="LAST_COMMIT_MESSAGE" value="I'm attaching all the code that was written over the course of several weeks." />
   </component>
 </project>
